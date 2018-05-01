@@ -1,0 +1,15 @@
+-->TABLAS DE LA BASE DE DATOS:
+USUARIOS
+********
+idusu (autoincrement integer clave primaria)
+mailusu
+passusu
+
+
+
+TAREAS
+*********
+idtarea (autoincrement integer clave primaria)
+destarea
+estado ('pendiente', 'completada')
+usuario_id

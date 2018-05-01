@@ -1,0 +1,17 @@
+body{
+  background-image: url("../img/fondo3.jpg");
+  background-attachment: fixed;
+  padding-top: 70px;
+}
+
+.formulario{
+  margin-top: 90px;
+}
+
+.form-text{
+  margin-top: -45px;
+}
+
+#form-titulo{
+  margin-top: 50px;
+}
